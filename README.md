@@ -47,32 +47,18 @@ This project is a popular e-commerce website. It allowing users to create accoun
 **GUIDE :** `⬇️ If you click on Fashion and then on Men's Clothing, you can able to see the following Interface` and here are all different functionalities you can sort by price, by ratings and you can choose Tshirts colors and all different functionalities are on this page
 
 
-![Screenshot 2023-04-03 131704](https://user-images.githubusercontent.com/110609653/229447975-691557b7-5602-4840-8ca9-770414bf8d2a.png)
-
-
-![Screenshot 2023-04-03 131748](https://user-images.githubusercontent.com/110609653/229447983-2a5a5f91-3d3d-470f-8eb1-9940a6da9e08.png)
 
 **GUIDE :** `If you click on add to Cart You can see the below alert and item will be added to Cart`
 
-![Screenshot 2023-04-03 131921](https://user-images.githubusercontent.com/110609653/229447995-4043e2d4-ef8c-4f10-8390-54df136edfe2.png)
 
 **GUIDE :** `⬇️If you click on any product You can see the below page⬇️`
 
-![Screenshot 2023-04-03 132039](https://user-images.githubusercontent.com/110609653/229448001-ccd10891-62c5-475f-a306-ad24f0eb9cd9.png)
-
 **GUIDE :** `⬇️This is the Cart Page, here you can see all Products which you have added to cart⬇️` on right side there are payment details of your cart products
-
-![Screenshot 2023-04-03 132241](https://user-images.githubusercontent.com/110609653/229448005-027986aa-48f3-4a8e-9815-0902fd2e5774.png)
 
 **GUIDE :** `⬇️When you click on Place Order you will be redirected to Login Page only if you are not Logged in ⬇️` 
 
-![Screenshot 2023-04-03 132753](https://user-images.githubusercontent.com/110609653/229448014-adfd562f-ba53-43ee-91b2-0dd621177288.png)
-![Screenshot 2023-04-03 132903](https://user-images.githubusercontent.com/110609653/229448016-8903cdc8-bb8d-48eb-8747-56d28f098f61.png)
 
 **GUIDE :** `⬇️ After Logged in you can see the below interface for Payments details ⬇️` Here you can fill all the details and  after clicking on place order you order will be placed successfully 🥳🥳🥳
-
-
-![Screenshot 2023-04-03 132418](https://user-images.githubusercontent.com/110609653/229448010-49c63c07-4b95-4574-8666-fc9c4655b680.png)
 
 
 
