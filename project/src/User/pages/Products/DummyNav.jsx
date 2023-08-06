@@ -35,7 +35,7 @@ function DummyNav() {
           </MenuButton>
         </Menu>
       </Link>
-      <Box display={{ base: "none", sm: "block", md: "block", lg: "block" }}>
+      <Box display={{ base: "block", sm: "block", md: "block", lg: "block" }}>
         <Menu w="10px">
           <MenuButton
             fontSize={"15px"}
