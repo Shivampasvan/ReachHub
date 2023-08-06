@@ -69,7 +69,12 @@ const MiddleNavbar = () => {
                 <Flex gap={1.5}>
                   <Image
                     // w="40px"
-                    display={{ base: "none", sm: "block", md: "block" }}
+                    display={{
+                      base: "none",
+                      sm: "none",
+                      md: "block",
+                      lg: "block",
+                    }}
                     w={{ base: "40px", sm: "40px", md: "40px" }}
                     src={Logo_smart_cart}
                     // ml={4}
@@ -202,13 +207,13 @@ const MiddleNavbar = () => {
               <Input
                 focusBorderColor="rgb(255,153,0)"
                 // w={630}
-                w={{ base: 150, sm: 250, md: 450, lg: 630 }}
+                w={{ base: 190, sm: 300, md: 450, lg: 630 }}
                 colorScheme="green"
                 bg="white"
                 variant="outline"
                 placeholder="Search Buyify"
                 // fontSize={"16px"}
-                fontSize={{ base: "10px", sm: "14px", md: "16px" }}
+                fontSize={{ base: "12px", sm: "14px", md: "16px" }}
                 fontWeight={"400"}
                 // lineHeight={"18px"}
                 color="black"
@@ -233,6 +238,7 @@ const MiddleNavbar = () => {
               </InputRightElement>
             </InputGroup>
           </Box>
+
           <Box display={{ base: "none", sm: "none", md: "none", lg: "block" }}>
             <Menu w="10px">
               <MenuButton
@@ -263,7 +269,7 @@ const MiddleNavbar = () => {
           </Box>
           <Flex
             // fontSize={"16px"}
-            fontSize={{ base: "12px", sm: "14px", md: "16px" }}
+            fontSize={{ base: "11px", sm: "13px", md: "15px", lg: "16px" }}
             fontWeight={"500"}
             // px={"4"}
             // py="2"

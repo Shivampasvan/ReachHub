@@ -101,7 +101,7 @@ export default function Carousel() {
             <Box
               mt={"1px"}
               key={index}
-              height={{ base: "200px", sm: "250px", md: "325px", lg: "lg" }}
+              height={{ base: "230px", sm: "280px", md: "350px", lg: "600px" }}
               maxWidth={{ base: "100%", sm: "100%", md: "100%", lg: "100%" }}
               position="relative"
               backgroundPosition="center"
