@@ -54,8 +54,10 @@ This project is an e-commerce website. It allowing users to create accounts, buy
 
 **GUIDE :** `⬇️ If you click on Fashion and then on Men's Clothing, you can able to see the following Interface` and here are all different functionalities you can sort by price, by ratings and you can choose Tshirts colors and all different functionalities are on this page
 
-![men page 1](https://github.com/Shivampasvan/ReachHub/assets/112854390/e8da7ff8-8228-4201-b5d0-abc6c491590d)
-![men page 2](https://github.com/Shivampasvan/ReachHub/assets/112854390/02786524-6e54-4bcc-9f1d-be23ce7a5db1)
+
+![men page 1](https://github.com/Shivampasvan/ReachHub/assets/112854390/cf787828-42f8-4dee-9d6c-bbe31b3ba8a8)
+
+![men page 2](https://github.com/Shivampasvan/ReachHub/assets/112854390/1933a5fa-65fa-4282-b55c-6384489533fc)
 
 
 **GUIDE :** `If you click on add to Cart You can see the below alert and item will be added to Cart`
