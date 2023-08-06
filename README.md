@@ -1,13 +1,13 @@
 
 # Buyify : Every product delivered to you
-💻 Buyify : an e-commerce Website 🚀🎯
+💻 an e-commerce Website 🚀🎯
 
 ![Logo](https://github.com/Shivampasvan/ReachHub/assets/112854390/82a907aa-e48a-4968-a66f-bf55dfbea30a)
 
 
 ## Overview
 
-This project is a clone of the popular e-commerce website, eBay. It functions similarly to the original eBay platform, allowing users to create accounts, buy and sell products, bid on auctions, and leave feedback for transactions. The website features various categories for products, including electronics, fashion, home goods, and more.
+This project is an e-commerce website. It allowing users to create accounts, buy and sell products, bid on auctions, and leave feedback for transactions. The website features various categories for products, including electronics, fashion, home goods, and more.
 
 ## Features
 
@@ -41,11 +41,14 @@ This project is a clone of the popular e-commerce website, eBay. It functions si
 
 ## Demo 
 - Landing Page
+![home1](https://github.com/Shivampasvan/ReachHub/assets/112854390/8dc27b6d-3862-4e14-a119-def36150ed48)
+![home2](https://github.com/Shivampasvan/ReachHub/assets/112854390/9b4d694a-e258-4268-9cc8-1b17a3ca0de3)
+![home3](https://github.com/Shivampasvan/ReachHub/assets/112854390/fc2fa3f3-c70a-4308-a23e-2b5fcfc9636d)
+![home4](https://github.com/Shivampasvan/ReachHub/assets/112854390/42a7902c-28f5-4be9-bbfe-11996932399d)
+![home5](https://github.com/Shivampasvan/ReachHub/assets/112854390/f98f2226-9e6c-4410-a9b7-0334d8dfde4e)
+![home6](https://github.com/Shivampasvan/ReachHub/assets/112854390/e64f26e8-e7ed-41f0-b56d-094e6fac7b61)
+![home7](https://github.com/Shivampasvan/ReachHub/assets/112854390/6d04e592-55b9-4c95-9290-1035d8ff4826)
 
-![Screenshot 2023-04-03 123034](https://user-images.githubusercontent.com/110609653/229442412-bbb0b9be-09ee-4afb-becc-833f072924fb.png)
-![Screenshot 2023-04-03 130751](https://user-images.githubusercontent.com/110609653/229447950-73605275-27f4-4df0-889a-053c04fccf8c.png)
-![Screenshot 2023-04-03 131100](https://user-images.githubusercontent.com/110609653/229447964-7f667696-1f94-4214-91e0-2987017d0169.png)
-![Screenshot 2023-04-03 131249](https://user-images.githubusercontent.com/110609653/229447969-c7b3145e-b7ff-4d03-b530-93b79564eaaa.png)
 
 
 **GUIDE :** `⬇️ If you click on Fashion and then on Men's Clothing, you can able to see the following Interface` and here are all different functionalities you can sort by price, by ratings and you can choose Tshirts colors and all different functionalities are on this page
