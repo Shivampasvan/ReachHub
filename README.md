@@ -55,6 +55,7 @@ This project is an e-commerce website. It allowing users to create accounts, buy
 
 
 ![menclick](https://github.com/Shivampasvan/ReachHub/assets/112854390/f4816692-fb74-49c1-b930-be4a908aeba4)
+
 ![men page 1](https://github.com/Shivampasvan/ReachHub/assets/112854390/cf787828-42f8-4dee-9d6c-bbe31b3ba8a8)
 
 ![men page 2](https://github.com/Shivampasvan/ReachHub/assets/112854390/1933a5fa-65fa-4282-b55c-6384489533fc)
@@ -68,16 +69,28 @@ This project is an e-commerce website. It allowing users to create accounts, buy
 
 **GUIDE :** `⬇️If you click on any product You can see the below page⬇️`
 
+
+
 ![Screenshot 2023-04-03 132039](https://user-images.githubusercontent.com/110609653/229448001-ccd10891-62c5-475f-a306-ad24f0eb9cd9.png)
+
+
 
 **GUIDE :** `⬇️This is the Cart Page, here you can see all Products which you have added to cart⬇️` on right side there are payment details of your cart products
 
+
+
 ![Screenshot 2023-04-03 132241](https://user-images.githubusercontent.com/110609653/229448005-027986aa-48f3-4a8e-9815-0902fd2e5774.png)
+
+
 
 **GUIDE :** `⬇️When you click on Place Order you will be redirected to Login Page only if you are not Logged in ⬇️` 
 
+
+
 ![Screenshot 2023-04-03 132753](https://user-images.githubusercontent.com/110609653/229448014-adfd562f-ba53-43ee-91b2-0dd621177288.png)
 ![Screenshot 2023-04-03 132903](https://user-images.githubusercontent.com/110609653/229448016-8903cdc8-bb8d-48eb-8747-56d28f098f61.png)
+
+
 
 **GUIDE :** `⬇️ After Logged in you can see the below interface for Payments details ⬇️` Here you can fill all the details and  after clicking on place order you order will be placed successfully 🥳🥳🥳
 
