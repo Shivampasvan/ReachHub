@@ -62,21 +62,23 @@ This project is an e-commerce website. It allowing users to create accounts, buy
 ![men page 2](https://github.com/Shivampasvan/ReachHub/assets/112854390/1933a5fa-65fa-4282-b55c-6384489533fc)
 
 
-**GUIDE :** `If you click on add to Cart You can see the below alert and item will be added to Cart`
+## GUIDE
+`If you click on add to Cart You can see the below alert and item will be added to Cart`
 
 
 ![product added](https://github.com/Shivampasvan/ReachHub/assets/112854390/678c28ab-4f8a-41ef-be74-4bc7b9395eb4)
 
 
-**GUIDE :** `⬇️If you click on any product You can see the below page⬇️`
+## GUIDE
+`⬇️ If you click on any product You can see the below page ⬇️`
 
 
 
 ![single product](https://github.com/Shivampasvan/ReachHub/assets/112854390/455ba67b-892a-40c1-8323-1c8af3346837)
 
 
-
-**GUIDE :** `⬇️This is the Cart Page, here you can see all Products which you have added to cart⬇️` on right side there are payment details of your cart products
+## GUIDE
+`⬇️ This is the Cart Page, here you can see all Products which you have added to cart ⬇️` on right side there are payment details of your cart products
 
 
 
@@ -84,8 +86,8 @@ This project is an e-commerce website. It allowing users to create accounts, buy
 
 
 
-
-**GUIDE :** `⬇️When you click on Place Order you will be redirected to Login Page only if you are not Logged in ⬇️` 
+## GUIDE
+`⬇️ When you click on Place Order you will be redirected to Login Page only if you are not Logged in ⬇️` 
 
 
 
@@ -93,7 +95,8 @@ This project is an e-commerce website. It allowing users to create accounts, buy
 ![signup](https://github.com/Shivampasvan/ReachHub/assets/112854390/1c438601-4f1c-4af9-b12a-3dd845898ad2)
 
 
-**GUIDE :** `⬇️ After Logged in you can see the below interface for Payments details ⬇️` Here you can fill all the details and  after clicking on place order you order will be placed successfully 🥳🥳🥳
+## GUIDE
+`⬇️ After Logged in you can see the below interface for Payments details ⬇️` Here you can fill all the details and  after clicking on place order you order will be placed successfully 🥳🥳🥳
 
 ![checkout 1](https://github.com/Shivampasvan/ReachHub/assets/112854390/6f06b759-dadd-4d21-ab4c-468897e5c4bd)
 
