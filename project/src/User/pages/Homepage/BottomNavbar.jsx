@@ -35,10 +35,8 @@ const BottomNavbar = () => {
               px={"3"}
               as={Text}
               py="1"
-              
             >
-              <span style={{color: "white"}}>Home</span>
-              
+              <span style={{ color: "white" }}>Home</span>
             </MenuButton>
           </Menu>
         </Link>
@@ -52,8 +50,7 @@ const BottomNavbar = () => {
               as={Text}
               py="1"
             >
-              <span style={{color: "white"}}>miniTV</span>
-              
+              <span style={{ color: "white" }}>miniTV</span>
             </MenuButton>
           </Menu>
         </Link>
@@ -68,8 +65,7 @@ const BottomNavbar = () => {
               py="1"
               borderRadius={5}
             >
-              <span style={{color: "white"}}>Sell</span>
-              
+              <span style={{ color: "white" }}>Sell</span>
             </MenuButton>
             <MenuList zIndex={3} color="black">
               <HStack>
@@ -95,7 +91,7 @@ const BottomNavbar = () => {
           </Menu>
         </Link>
 
-        {/* <Link>
+        <Link>
           <Menu w="10px">
             <MenuButton
               fontSize={"15px"}
@@ -105,8 +101,7 @@ const BottomNavbar = () => {
               py="1"
               borderRadius={5}
             >
-              <span style={{color: "white"}}>Mobiles</span>
-              
+              <span style={{ color: "white" }}>Mobiles</span>
             </MenuButton>
             <MenuList zIndex={3} color="black">
               <HStack>
@@ -138,7 +133,7 @@ const BottomNavbar = () => {
               </HStack>
             </MenuList>
           </Menu>
-        </Link> */}
+        </Link>
 
         <Menu w="10px">
           <MenuButton
@@ -149,8 +144,7 @@ const BottomNavbar = () => {
             py="1"
             borderRadius={5}
           >
-            <span style={{color: "white"}}>Fashion</span>
-            
+            <span style={{ color: "white" }}>Fashion</span>
           </MenuButton>
           <MenuList zIndex={3} color="black">
             <HStack>
@@ -206,8 +200,7 @@ const BottomNavbar = () => {
               py="1"
               borderRadius={5}
             >
-              <span style={{color: "white"}}>Sports</span>
-              
+              <span style={{ color: "white" }}>Sports</span>
             </MenuButton>
             <MenuList zIndex={3} color="black">
               <HStack>
@@ -241,7 +234,7 @@ const BottomNavbar = () => {
           </Menu>
         </Link>
 
-        {/* <Link>
+        <Link>
           <Menu w="10px">
             <MenuButton
               fontSize={"15px"}
@@ -251,8 +244,7 @@ const BottomNavbar = () => {
               py="1"
               borderRadius={5}
             >
-              <span style={{color: "white"}}>Arts & Collectibles</span>
-              
+              <span style={{ color: "white" }}>Arts & Collectibles</span>
             </MenuButton>
             <MenuList zIndex={3} color="black">
               <HStack>
@@ -285,7 +277,7 @@ const BottomNavbar = () => {
               </HStack>
             </MenuList>
           </Menu>
-        </Link> */}
+        </Link>
 
         <Link>
           <Menu w="10px">
@@ -297,8 +289,7 @@ const BottomNavbar = () => {
               py="1"
               borderRadius={5}
             >
-              <span style={{color: "white"}}>Health & Beauty</span>
-              
+              <span style={{ color: "white" }}>Health & Beauty</span>
             </MenuButton>
             <MenuList zIndex={3} color="black">
               <HStack>
@@ -342,8 +333,7 @@ const BottomNavbar = () => {
               py="1"
               borderRadius={5}
             >
-              <span style={{color: "white"}}>Customer Service</span>
-             
+              <span style={{ color: "white" }}>Customer Service</span>
             </MenuButton>
             <MenuList zIndex={3} color="black">
               <HStack>
@@ -386,8 +376,7 @@ const BottomNavbar = () => {
               as={Text}
               py="1"
             >
-              <span style={{color: "white"}}>Electronics</span>
-              
+              <span style={{ color: "white" }}>Electronics</span>
             </MenuButton>
 
             <MenuList zIndex={3} color="black">
@@ -432,8 +421,7 @@ const BottomNavbar = () => {
               py="1"
               borderRadius={5}
             >
-              <span style={{color: "white"}}>Home Decor</span>
-              
+              <span style={{ color: "white" }}>Home Decor</span>
             </MenuButton>
             <MenuList zIndex={3} color="black">
               <HStack>
@@ -477,8 +465,7 @@ const BottomNavbar = () => {
               py="1"
               borderRadius={5}
             >
-              <span style={{color: "white"}}>Today's Deals</span>
-              
+              <span style={{ color: "white" }}>Today's Deals</span>
             </MenuButton>
           </Menu>
         </Link>

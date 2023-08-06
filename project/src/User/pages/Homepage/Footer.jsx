@@ -98,7 +98,12 @@ export default function Footer() {
 
       <Box bg={"rgb(19,25,33)"} color={"rgb(215,218,221)"}>
         <Container as={Stack} maxW={"6xl"} py={10}>
-          <SimpleGrid columns={{ base: 1, sm: 2, md: 5 }} spacing={8}>
+          <SimpleGrid
+            // border={"2px solid white"}
+            columns={{ base: 1, sm: 2, md: 5 }}
+            margin={{ base: "auto" }}
+            spacing={8}
+          >
             <Stack align={"flex-start"}>
               <ListHeader>Company</ListHeader>
               <Link href={"#"}>About Us</Link>
@@ -137,9 +142,17 @@ export default function Footer() {
               <Link href={"#"}>Law Enforcement</Link>
             </Stack>
 
-            <Stack align={"flex-start"}>
+            <Stack>
               <ListHeader>Download the App</ListHeader>
-              <HStack>
+              <HStack
+                display={{
+                  base: "grid",
+                  sm: "flex",
+                  md: "flex",
+                  lg: "flex",
+                }}
+                margin={{ base: "auto", md: "0px", lg: "0px" }}
+              >
                 <Box>
                   <Image src="https://content1.geekbuying.com/V1.4/en/images/index_images/android_app.png" />
                 </Box>
@@ -174,7 +187,7 @@ export default function Footer() {
             direction={{ base: "column", md: "row" }}
             spacing={4}
             justify={{ md: "space-between" }}
-            align={{ md: "center" }}
+            align={{ base: "center", sm: "center", md: "center" }}
           >
             <Flex gap={1.5}>
               <Image
@@ -187,8 +200,8 @@ export default function Footer() {
                 Buyify
               </Text>
             </Flex>
-            {/* <Image src="favicon.ico" w="10" alt="SmartBuyers Logo" /> */}
-            <Text>
+
+            <Text align={{ base: "center", sm: "center", md: "center" }}>
               © Buyify: Every product delivered to you. All rights reserved
             </Text>
             <Stack direction={"row"} spacing={6}>

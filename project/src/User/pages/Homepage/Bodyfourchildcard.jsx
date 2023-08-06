@@ -4,15 +4,17 @@ import React from "react";
 const Bodyfourchildcard = ({ src, OFF, Product, Price, SPrice }) => {
   return (
     <>
-      <Link
+      <Link 
+      // border={"2px solid red"}
         fontFamily={"Open Sans, sans-serif, Arial, Helvetica"}
         textDecoration={"none!important"}
+        // pb={"-50px"}
       >
-        <Box mb={2}>
-          <Image src={src} w={"auto"} h={"250"} />
+        <Box mb={4}>
+          <Image src={src} w={"100%"} h={"250"} />
         </Box>
-        <Box>
-          <Box lineHeight="1.2">
+        <Box gap={2}>
+          <Box lineHeight="1.5">
             {OFF ? (
               <Tag
                 variant="solid"
@@ -26,7 +28,7 @@ const Bodyfourchildcard = ({ src, OFF, Product, Price, SPrice }) => {
             ) : (
               ""
             )}
-            <Text fontSize="13px" fontWeight={600}>
+            <Text fontSize="14px" fontWeight={400}>
               {Product}
             </Text>
             {SPrice ? (
@@ -36,7 +38,7 @@ const Bodyfourchildcard = ({ src, OFF, Product, Price, SPrice }) => {
             ) : (
               ""
             )}
-            <Text fontWeight={700} fontSize="15px">
+            <Text fontWeight={400} fontSize="15px">
               {Price}
             </Text>
           </Box>

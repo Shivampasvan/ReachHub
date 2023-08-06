@@ -13,7 +13,7 @@ const Bodyfive = () => {
     >
       <Flex
         alignItem="center"
-        my={"2"}
+        my={"4"}
         gap={3}
         fontFamily={"Open Sans, sans-serif, Arial, Helvetica"}
       >

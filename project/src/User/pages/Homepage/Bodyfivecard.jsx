@@ -5,7 +5,7 @@ import Bodyfourchildcard from "./Bodyfourchildcard";
 const Details = [
   {
     src: "https://ksioks.com/wp-content/uploads/2020/05/Furniture-sale-flyer-template.jpg",
-    OFF: "50%",
+    OFF: "Upto 50% ",
     Product: "Complete Home Decor",
     Price: "",
     SPrice: "",
@@ -13,7 +13,7 @@ const Details = [
 
   {
     src: "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQB6S3arMoymAN9Z6gmhgAj4SdmR3zU9b9ftg&usqp=CAU",
-    OFF: "20%",
+    OFF: "Upto 20% ",
     Product: "Lamps & Plants",
     Price: "",
     SPrice: "",
@@ -21,7 +21,7 @@ const Details = [
 
   {
     src: "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQHO5hMy1KsVWWJxF5F_eOHmxNQ_Mlchr-lwg&usqp=CAU",
-    OFF: "30%",
+    OFF: "Upto 30% ",
     Product: "Paintings",
     Price: "",
     SPrice: "",
@@ -29,7 +29,7 @@ const Details = [
 
   {
     src: "https://d1csarkz8obe9u.cloudfront.net/posterpreviews/modern-furniture-sale-flyer-design-template-2cd1b1fcf424883cb6f236d398471c4f_screen.jpg?ts=1637023855",
-    OFF: "40%",
+    OFF: "Upto 40% ",
     Product: "Update Furniture",
     Price: "",
     SPrice: "",
@@ -41,8 +41,8 @@ const Bodyfivecard = () => {
     <Flex bg={"white"} justifyContent={"space-around"}>
       <Box display={{ base: "none", lg: "block" }}>
         <Image
-          height={"80%"}
-          width="90%"
+          height={"300px"}
+          width="450px"
           src="https://images.all-free-download.com/images/graphiclarge/house_decor_sale_poster_template_elegant_colored_classic_6848875.jpg"
         />
       </Box>

@@ -5,7 +5,7 @@ import Bodyfourchildcard from "./Bodyfourchildcard";
 const Details = [
   {
     src: "https://img1.wsimg.com/isteam/ip/833c99b4-a304-435f-8109-c8cedf8c48cf/ols/bbb-face92e.jpg/:/rs=w:1200,h:1200",
-    OFF: "",
+    OFF: "Get @ 25% ",
     Product: "JBL Earbuds",
     Price: "",
     SPrice: "",
@@ -13,7 +13,7 @@ const Details = [
 
   {
     src: "https://i.ebayimg.com/images/g/PpYAAOSw-Xxi8V3s/s-l500.jpg",
-    OFF: "",
+    OFF: "Get @ 15% ",
     Product: "Boat Earbuds",
     Price: "",
     SPrice: "",
@@ -21,7 +21,7 @@ const Details = [
 
   {
     src: "https://m.media-amazon.com/images/I/71QW3jOe-kL._AC_UF894,1000_QL80_.jpg",
-    OFF: "",
+    OFF: "Get @ 20% ",
     Product: "Skullcandy Earbuds",
     Price: "",
     SPrice: "",
@@ -29,7 +29,7 @@ const Details = [
 
   {
     src: "https://image.kilimall.com/kenya/shop/store/goods/5933/2023/04/168156335643766646877837440c9bdaa52a76124dc12_1280.jpeg.webp",
-    OFF: "",
+    OFF: "Get @ 30% ",
     Product: "Sony Earbuds",
     Price: "",
     SPrice: "",
@@ -41,8 +41,8 @@ const Bodysevencard = () => {
     <Flex bg={"white"} justifyContent={"space-around"}>
       <Box display={{ base: "none", lg: "block" }}>
         <Image
-          height={"80%"}
-          width="90%"
+          height={"300px"}
+          width="450px"
           src="https://m.media-amazon.com/images/S/aplus-media-library-service-media/95cc75bb-2f95-4e09-b927-351c2c5407ee.__CR0,0,970,600_PT0_SX970_V1___.jpg"
         />
       </Box>

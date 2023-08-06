@@ -7,7 +7,6 @@ import {
   InputGroup,
   InputRightElement,
   Text,
-  Button,
   Tooltip,
   Menu,
   MenuButton,
@@ -32,7 +31,6 @@ import { useNavigate } from "react-router-dom";
 import { Link as MyLink } from "react-router-dom";
 import Logo_smart_cart from "./favicon.ico";
 import { getCartProducts } from "../../../redux/Cart/Action";
-import axios from "axios";
 
 const MiddleNavbar = () => {
   const { cart } = useSelector((store) => {
@@ -59,10 +57,11 @@ const MiddleNavbar = () => {
         h="90px"
         bgColor={"rgb(19,25,33)"}
         color={"rgb(255,255,255)"}
+        gap={4}
       >
-        <Flex>
+        <Flex gap={4}>
           <Box>
-            <Flex alignItems="center" justifyContent="center" gap={1}>
+            <Flex alignItems="center" justifyContent="center" gap={4}>
               <Link
                 textDecorationLine={"none!important"}
                 onClick={() => navigate("/")}
@@ -80,7 +79,12 @@ const MiddleNavbar = () => {
                     fontWeight={600}
                     fontSize={"24px"}
                     letterSpacing={".5px"}
-                    display={{ base: "none", sm: "none", md: "block" }}
+                    display={{
+                      base: "none",
+                      sm: "none",
+                      md: "none",
+                      lg: "block",
+                    }}
                   >
                     Buyify
                   </Text>
@@ -192,13 +196,13 @@ const MiddleNavbar = () => {
           <Box
             ml="20px"
             mr="20px"
-            display={{ base: "none", sm: "block", md: "block", lg: "block" }}
+            display={{ base: "block", sm: "block", md: "block", lg: "block" }}
           >
             <InputGroup>
               <Input
                 focusBorderColor="rgb(255,153,0)"
                 // w={630}
-                w={{ base: 200, sm: 300, md: 630 }}
+                w={{ base: 150, sm: 250, md: 450, lg: 630 }}
                 colorScheme="green"
                 bg="white"
                 variant="outline"
@@ -264,7 +268,7 @@ const MiddleNavbar = () => {
             // px={"4"}
             // py="2"
             alignItems={"center"}
-            gap={"7"}
+            gap={"8"}
           >
             <Box
               display={{ base: "none", sm: "none", md: "none", lg: "block" }}
@@ -381,7 +385,13 @@ const MiddleNavbar = () => {
               </Box>
             </MyLink>
 
-            {/* <MyLink to="/admin">Admin</MyLink> */}
+            <MyLink to="/admin">
+              <Text
+                display={{ base: "none", sm: "none", md: "block", lg: "block" }}
+              >
+                Admin
+              </Text>
+            </MyLink>
           </Flex>
         </Flex>
       </Box>

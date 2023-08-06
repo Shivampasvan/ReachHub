@@ -1,6 +1,5 @@
 import React from "react";
 import { Box } from "@chakra-ui/react";
-
 import { UpperNavbar } from "./UpperNavbar";
 import Carousel from "./Carousel";
 import Bodyfour from "./Bodyfour";
@@ -33,21 +32,5 @@ export const HomePage = () => {
       </Box>
       <Footer />
     </>
-
-//     <Box bg={"rgb(227,230,230)"}>
-//       <UpperNavbar />
-//       <Carousel />
-//       <Bodyfour />
-//       <Bodyfive />
-//       <Hotdeals />
-//       <Exploremore />
-//       <Bodysix />
-//       <Bestbuy />
-//       <Bodyseven />
-//       <Trendingdeals />
-//       <Bodyeight />
-//       <Footer />
-//     </Box>
-
   );
 };

@@ -70,7 +70,7 @@ export default function Carousel() {
         />
         <IconButton
           aria-label="left-arrow"
-          variant="ghost"
+          variant="none"
           position="absolute"
           left={side}
           top={top}
@@ -78,11 +78,13 @@ export default function Carousel() {
           zIndex={1}
           onClick={() => slider?.slickPrev()}
         >
-          <ArrowBackIosNewIcon size="40px" />
+          <ArrowBackIosNewIcon
+            size={{ base: "10px", sm: "10px", md: "15px", lg: "20px" }}
+          />
         </IconButton>
         <IconButton
           aria-label="right-arrow"
-          variant="ghost"
+          variant="none"
           position="absolute"
           right={side}
           top={top}
@@ -90,14 +92,17 @@ export default function Carousel() {
           zIndex={1}
           onClick={() => slider?.slickNext()}
         >
-          <ArrowForwardIosIcon size="40px" />
+          <ArrowForwardIosIcon
+            size={{ base: "10px", sm: "10px", md: "15px", lg: "20px" }}
+          />
         </IconButton>
         <Slider {...settings} ref={(slider) => setSlider(slider)}>
           {cards.map((card, index) => (
             <Box
+              mt={"1px"}
               key={index}
-              height={"lg"}
-              width={"50%"}
+              height={{ base: "200px", sm: "250px", md: "325px", lg: "lg" }}
+              maxWidth={{ base: "100%", sm: "100%", md: "100%", lg: "100%" }}
               position="relative"
               backgroundPosition="center"
               backgroundRepeat="no-repeat"

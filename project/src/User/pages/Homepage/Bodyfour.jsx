@@ -5,6 +5,7 @@ import Bodyfourcard from "./Bodyfourcard";
 const Bodyfour = () => {
   return (
     <Box
+    // border={"2px solid red"}
       mx={"5"}
       my={"6"}
       textAlign={{ base: "center", sm: "center", md: "left" }}
@@ -12,8 +13,9 @@ const Bodyfour = () => {
       padding={"4"}
     >
       <Flex
+      // border={"2px solid red"}
         alignItem="center"
-        my={"2"}
+        my={"4"}
         gap={3}
         fontFamily={"Open Sans, sans-serif, Arial, Helvetica"}
       >
