@@ -49,6 +49,17 @@ This project is an e-commerce website. It allowing users to create accounts, buy
 ![home6](https://github.com/Shivampasvan/ReachHub/assets/112854390/e64f26e8-e7ed-41f0-b56d-094e6fac7b61)
 ![home7](https://github.com/Shivampasvan/ReachHub/assets/112854390/6d04e592-55b9-4c95-9290-1035d8ff4826)
 
+## GUIDE
+`⬇️ If you click on Fashion and then on Women's Clothing, you can able to see the following Interface` and here are all different functionalities you can sort by price, by ratings and you can choose products by colors and all different functionalities are on this page
+
+![women page](https://github.com/Shivampasvan/ReachHub/assets/112854390/163d93c0-48a0-4d8b-b76d-fdc0e420f737)
+
+
+## Women's Product Page
+![women products 1](https://github.com/Shivampasvan/ReachHub/assets/112854390/b2a51c00-ab5b-41e0-9dcd-54d709ceb96f)
+
+![women products 2](https://github.com/Shivampasvan/ReachHub/assets/112854390/ca5da2e9-f843-4224-833b-815d1ff084e6)
+
 
 
 ## GUIDE
