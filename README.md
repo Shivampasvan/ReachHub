@@ -61,6 +61,8 @@ This project is an e-commerce website. It allowing users to create accounts, buy
 
 
 **GUIDE :** `If you click on add to Cart You can see the below alert and item will be added to Cart`
+
+
 ![product added](https://github.com/Shivampasvan/ReachHub/assets/112854390/678c28ab-4f8a-41ef-be74-4bc7b9395eb4)
 
 
