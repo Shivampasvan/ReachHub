@@ -95,10 +95,9 @@ This project is an e-commerce website. It allowing users to create accounts, buy
 
 **GUIDE :** `⬇️ After Logged in you can see the below interface for Payments details ⬇️` Here you can fill all the details and  after clicking on place order you order will be placed successfully 🥳🥳🥳
 
+![checkout 1](https://github.com/Shivampasvan/ReachHub/assets/112854390/6f06b759-dadd-4d21-ab4c-468897e5c4bd)
 
-![Screenshot 2023-04-03 132418](https://user-images.githubusercontent.com/110609653/229448010-49c63c07-4b95-4574-8666-fc9c4655b680.png)
-
-
+![checkout 2](https://github.com/Shivampasvan/ReachHub/assets/112854390/835a7d8e-d461-4825-93cc-0f435543e10d)
 
 ## Getting Started
 
