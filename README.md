@@ -92,8 +92,10 @@ This project is an e-commerce website. It allowing users to create accounts, buy
 `⬇️ When you click on Place Order you will be redirected to Login Page only if you are not Logged in ⬇️` 
 
 
-
+### LogIn Page
 ![login](https://github.com/Shivampasvan/ReachHub/assets/112854390/8c532353-5d07-4205-a302-f90bf90aad6e)
+
+### SignUp Page
 ![signup](https://github.com/Shivampasvan/ReachHub/assets/112854390/1c438601-4f1c-4af9-b12a-3dd845898ad2)
 
 
