@@ -79,7 +79,8 @@ This project is an e-commerce website. It allowing users to create accounts, buy
 
 
 
-![Screenshot 2023-04-03 132241](https://user-images.githubusercontent.com/110609653/229448005-027986aa-48f3-4a8e-9815-0902fd2e5774.png)
+![cart page](https://github.com/Shivampasvan/ReachHub/assets/112854390/6a2a65e1-a45c-43d0-9aa1-90cc6ea9ade6)
+
 
 
 
