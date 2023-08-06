@@ -39,8 +39,8 @@ This project is an e-commerce website. It allowing users to create accounts, buy
 - `Material UI`
 - `React Router`
 
-## Demo 
-# Landing Page
+# Demo 
+## Landing Page
 ![home1](https://github.com/Shivampasvan/ReachHub/assets/112854390/8dc27b6d-3862-4e14-a119-def36150ed48)
 ![home2](https://github.com/Shivampasvan/ReachHub/assets/112854390/9b4d694a-e258-4268-9cc8-1b17a3ca0de3)
 ![home3](https://github.com/Shivampasvan/ReachHub/assets/112854390/fc2fa3f3-c70a-4308-a23e-2b5fcfc9636d)
