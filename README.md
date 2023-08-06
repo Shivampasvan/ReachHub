@@ -48,13 +48,13 @@ This project is an e-commerce website. It allowing users to create accounts, buy
 ![home5](https://github.com/Shivampasvan/ReachHub/assets/112854390/f98f2226-9e6c-4410-a9b7-0334d8dfde4e)
 ![home6](https://github.com/Shivampasvan/ReachHub/assets/112854390/e64f26e8-e7ed-41f0-b56d-094e6fac7b61)
 ![home7](https://github.com/Shivampasvan/ReachHub/assets/112854390/6d04e592-55b9-4c95-9290-1035d8ff4826)
-![menclick](https://github.com/Shivampasvan/ReachHub/assets/112854390/f4816692-fb74-49c1-b930-be4a908aeba4)
 
 
 
 **GUIDE :** `⬇️ If you click on Fashion and then on Men's Clothing, you can able to see the following Interface` and here are all different functionalities you can sort by price, by ratings and you can choose Tshirts colors and all different functionalities are on this page
 
 
+![menclick](https://github.com/Shivampasvan/ReachHub/assets/112854390/f4816692-fb74-49c1-b930-be4a908aeba4)
 ![men page 1](https://github.com/Shivampasvan/ReachHub/assets/112854390/cf787828-42f8-4dee-9d6c-bbe31b3ba8a8)
 
 ![men page 2](https://github.com/Shivampasvan/ReachHub/assets/112854390/1933a5fa-65fa-4282-b55c-6384489533fc)
