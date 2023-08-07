@@ -46,7 +46,7 @@ This project is an e-commerce website. It allowing users to create accounts, buy
 ## Home Page
 Welcome to our website's home page, where we've designed an immersive and user-friendly experience to help you discover our range of exciting products. Here's a breakdown of what you'll find on this page:
 
-1. **Navbar :**
+1. **Navbar :** <br/>
    Our navigation bar, located at the top of the page, serves as your roadmap to effortlessly explore our offerings. It provides easy access to key sections of our website, including Home, Products, About Us, Contact, and more. Whether you're looking to learn about us or find specific products, the navbar is your gateway.
 
 2. **Carousel :**
