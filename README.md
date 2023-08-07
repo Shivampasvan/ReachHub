@@ -112,11 +112,11 @@ If you're interested in exploring our fashion offerings, particularly Men's Clot
 
 **Navigate to Men's Clothing :** <br/> To start, click on the 'Fashion' category from the navbar. Once you're in the Fashion section, you'll find a subcategory called 'Men's Clothing.' Simply click on this subcategory to be redirected to the dedicated Men's Clothing product page.
 
-<br><br>
+<br>
 
 ![menclick](https://github.com/Shivampasvan/ReachHub/assets/112854390/759a34c5-d9de-4dd1-a1d8-55795b9d22e1)
 
-<br><br>
+<br>
 
 Upon landing on the Men's Clothing product page, you'll encounter an intuitive and user-friendly interface. This page has been designed to make your shopping journey as smooth and enjoyable as possible.
 
@@ -126,7 +126,7 @@ Upon landing on the Men's Clothing product page, you'll encounter an intuitive a
 
 3. **Explore Different Functionalities :** <br/> As you explore the Men's Clothing product page, you'll notice a range of functionalities to enhance your shopping experience. These functionalities may include viewing detailed product images, reading product descriptions, checking available sizes, and even viewing customer reviews to make informed decisions.
 
-<br><br>
+<br>
 
 ## Men's Product Page
 
