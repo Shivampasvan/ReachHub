@@ -11,7 +11,7 @@ This project is an e-commerce website. It allowing users to create accounts, buy
 
 ## Features
 
-- Fully responsive website for large, medium and small screen
+- Fully responsive website for large, medium and small screens
 - Secure user authentication and authorization
 - User profiles for buying products
 - Categories for organizing products
