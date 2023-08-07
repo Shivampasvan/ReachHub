@@ -117,6 +117,8 @@ This project is an e-commerce website. It allowing users to create accounts, buy
 ![login](https://github.com/Shivampasvan/ReachHub/assets/112854390/8c532353-5d07-4205-a302-f90bf90aad6e)
 
 ### SignUp Page
+This is the SignUp Page and if you're a new user, we're excited to have you join our community. Please take a moment to provide all the necessary details to complete your signup process. Your information will help us create a personalized experience for you.
+
 ![signup](https://github.com/Shivampasvan/ReachHub/assets/112854390/1c438601-4f1c-4af9-b12a-3dd845898ad2)
 
 
