@@ -129,9 +129,6 @@ To get started with the project, follow these steps:
 3. Start the server using `npm start`
 4. Open the application in your browser at `http://localhost:3000`
 
-## Our Contributers
-
-
 
 ## Contributing
 
