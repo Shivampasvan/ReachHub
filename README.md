@@ -111,7 +111,7 @@ This project is an e-commerce website. It allowing users to create accounts, buy
 
 
 ## GUIDE
-`⬇️ After Logged in you can see the below interface for Payments details ⬇️` Here you can fill all the details and  after clicking on place order you order will be placed successfully 🥳🥳🥳
+`⬇️ After Logged in you can see the below interface for Payments details ⬇️` Here you can fill all the details and  after clicking on Pay Now you order will be placed successfully 🥳🥳🥳
 
 ![checkout 1](https://github.com/Shivampasvan/ReachHub/assets/112854390/6f06b759-dadd-4d21-ab4c-468897e5c4bd)
 
