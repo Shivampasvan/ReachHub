@@ -88,12 +88,10 @@ This project is an e-commerce website. It allowing users to create accounts, buy
 
 ## GUIDE
 
-## Single Product Page
-
 
 `⬇️ If you click on any product You can see the single product detail page ⬇️`
 
-
+## Single Product Page
 
 ![single product](https://github.com/Shivampasvan/ReachHub/assets/112854390/455ba67b-892a-40c1-8323-1c8af3346837)
 
