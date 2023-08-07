@@ -138,8 +138,7 @@ This simple yet effective step ensures that your chosen product is safely stored
 
 ## GUIDE
 
-
-`⬇️ If you click on any product You can see the single product detail page ⬇️`
+When you click on any product, you'll be directed to the dedicated single product detail page, where you can delve into comprehensive information about that specific item. This page has been meticulously designed to provide you with an in-depth understanding of the product's features, specifications, and more.The single product detail page aims to offer you a comprehensive view of the product, empowering you to make well-informed decisions based on your preferences and needs. We're dedicated to ensuring your shopping experience is both informative and enjoyable.Feel free to explore our diverse range of products and access their detailed information on their respective single product detail pages.
 
 ## Single Product Page
 
