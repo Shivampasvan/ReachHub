@@ -143,9 +143,12 @@ The single product detail page aims to offer you a comprehensive view of the pro
 
 
 ## GUIDE
-`⬇️ This is the Cart Page, here you can see all Products which you have added to cart ⬇️` on right side there are payment details of your cart products
 
+Welcome to the Cart Page!
 
+Here, you'll find a comprehensive overview of all the products you've added to your cart. This page is designed to provide you with a clear view of your selections and make the checkout process as seamless as possible.
+
+We've designed the Cart Page to ensure that you have a transparent and user-friendly experience. It's a convenient hub where you can review your selections, understand the costs involved, and easily proceed to checkout when you're ready.
 
 ![cart page](https://github.com/Shivampasvan/ReachHub/assets/112854390/6a2a65e1-a45c-43d0-9aa1-90cc6ea9ade6)
 
