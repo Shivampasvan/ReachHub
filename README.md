@@ -63,7 +63,7 @@ As you scroll down, our product details section unfolds. Here, you'll find in-de
 4. **Footer :** <br/>
 As you reach the end of the page, our footer provides a convenient wrap-up. It contains essential links, such as our Privacy Policy, Terms of Use, and Contact information. You'll also find links to our social media profiles, allowing you to stay connected with us beyond the website. The footer is designed to ensure you have access to important resources and ways to reach out to us for any inquiries.
 
-Our home page has been crafted to deliver a seamless journey, whether you're just browsing or looking for specific products. We invite you to take your time, explore, and discover the world of possibilities that our products offer.<br><br><br>
+Our home page has been crafted to deliver a seamless journey, whether you're just browsing or looking for specific products. We invite you to take your time, explore, and discover the world of possibilities that our products offer.<br><br>
 
 
 ![home1](https://github.com/Shivampasvan/ReachHub/assets/112854390/8dc27b6d-3862-4e14-a119-def36150ed48)
@@ -74,7 +74,7 @@ Our home page has been crafted to deliver a seamless journey, whether you're jus
 ![home6](https://github.com/Shivampasvan/ReachHub/assets/112854390/e64f26e8-e7ed-41f0-b56d-094e6fac7b61)
 ![home7](https://github.com/Shivampasvan/ReachHub/assets/112854390/6d04e592-55b9-4c95-9290-1035d8ff4826)
 
-<br><br><br>
+<br><br>
 
 ## GUIDE
 
@@ -83,6 +83,8 @@ If you're interested in exploring our fashion offerings, particularly Women's Cl
 **Navigate to Women's Clothing :** <br/> To start, click on the 'Fashion' category from the navbar. Once you're in the Fashion section, you'll find a subcategory called 'Women's Clothing.' Simply click on this subcategory to be redirected to the dedicated Women's Clothing product page. <br><br>
 
 ![women page](https://github.com/Shivampasvan/ReachHub/assets/112854390/163d93c0-48a0-4d8b-b76d-fdc0e420f737)
+
+<br><br>
 
 ## Women's Product Page
 
@@ -99,11 +101,7 @@ Upon landing on the Women's Clothing product page, you'll encounter an intuitive
 
 ![women products 2](https://github.com/Shivampasvan/ReachHub/assets/112854390/ca5da2e9-f843-4224-833b-815d1ff084e6)
 
-
-
-
-
-
+<br><br>
 
 ## GUIDE
 
@@ -127,15 +125,18 @@ If you're interested in exploring our fashion offerings, particularly Men's Clot
 
 ![men page 2](https://github.com/Shivampasvan/ReachHub/assets/112854390/1933a5fa-65fa-4282-b55c-6384489533fc)
 
+<br><br>
 
 ## GUIDE
 When you click on the 'Add to Cart' button, you'll experience a seamless process to enhance your shopping experience. Upon clicking, you'll receive a prompt that confirms your selection and provides important information. The item you've chosen will be swiftly added to your cart, allowing you to continue browsing and exploring more of our offerings.
 
 This simple yet effective step ensures that your chosen product is safely stored in your shopping cart, ready for you to review and proceed to checkout when you're ready. This way, you can keep exploring our wide range of products without losing track of the items you're interested in.
 
+<br>
 
 ![product added](https://github.com/Shivampasvan/ReachHub/assets/112854390/678c28ab-4f8a-41ef-be74-4bc7b9395eb4)
 
+<br><br>
 
 ## GUIDE
 
@@ -144,6 +145,7 @@ When you click on any product, you'll be directed to the dedicated single produc
 The single product detail page aims to offer you a comprehensive view of the product, empowering you to make well-informed decisions based on your preferences and needs. We're dedicated to ensuring your shopping experience is both informative and enjoyable.Feel free to explore our diverse range of products and access their detailed information on their respective single product detail pages.
 
 ### Single Product Page
+<br>
 
 ![women single product](https://github.com/Shivampasvan/ReachHub/assets/112854390/8a7df7e1-3b39-4684-a1ef-2f03d1ac4638)
 
