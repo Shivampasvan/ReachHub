@@ -34,12 +34,10 @@ This project is an e-commerce website. It allowing users to create accounts, buy
 
 ## Technologies Used
 
-- `HTML`
 - `CSS`
 - `Javascript`
 - `React`
 - `Redux`
-- `Node.js`
 - `Chakra UI`
 - `Material UI`
 - `React Router`
