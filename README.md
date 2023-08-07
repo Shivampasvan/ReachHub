@@ -12,6 +12,7 @@ This project is an e-commerce website. It allowing users to create accounts, buy
 ## Features
 
 - Fully responsive website for large, medium and small screens
+- Dynamic homepage with Navbar, Carousel, Footer
 - On successful login user's name will be visible on navbar
 - On successful login LogOut will be visible on navbar to logout
 - PopUp for number of products in the cart on cart icon
