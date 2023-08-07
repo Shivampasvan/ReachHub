@@ -46,13 +46,17 @@ This project is an e-commerce website. It allowing users to create accounts, buy
 ## Home Page
 Welcome to our website's home page, where we've designed an immersive and user-friendly experience to help you discover our range of exciting products. Here's a breakdown of what you'll find on this page:
 
-1. **Navbar:** Our navigation bar, located at the top of the page, serves as your roadmap to effortlessly explore our offerings. It provides easy access to key sections of our website, including Home, Products, About Us, Contact, and more. Whether you're looking to learn about us or find specific products, the navbar is your gateway.
+1. **Navbar :**
+   Our navigation bar, located at the top of the page, serves as your roadmap to effortlessly explore our offerings. It provides easy access to key sections of our website, including Home, Products, About Us, Contact, and more. Whether you're looking to learn about us or find specific products, the navbar is your gateway.
 
-2. **Carousel:** Right at the heart of our home page, you'll discover a captivating carousel. This dynamic element showcases a collection of images that highlight our featured products, promotions, and key announcements. It's designed to catch your eye and draw you into the world of our products, inviting you to explore further.
+2. **Carousel :**
+Right at the heart of our home page, you'll discover a captivating carousel. This dynamic element showcases a collection of images that highlight our featured products, promotions, and key announcements. It's designed to catch your eye and draw you into the world of our products, inviting you to explore further.
 
-3. **Product Details Section:** As you scroll down, our product details section unfolds. Here, you'll find in-depth information about each of our diverse products. Each product has its dedicated space, complete with high-quality images, comprehensive descriptions, standout features, pricing details, and even customer reviews. Whether you're a tech enthusiast, a fashion aficionado, or someone seeking practical solutions, this section has something for everyone.
+3. **Product Details Section :**
+As you scroll down, our product details section unfolds. Here, you'll find in-depth information about each of our diverse products. Each product has its dedicated space, complete with high-quality images, comprehensive descriptions, standout features, pricing details, and even customer reviews. Whether you're a tech enthusiast, a fashion aficionado, or someone seeking practical solutions, this section has something for everyone.
 
-4. **Footer:** As you reach the end of the page, our footer provides a convenient wrap-up. It contains essential links, such as our Privacy Policy, Terms of Use, and Contact information. You'll also find links to our social media profiles, allowing you to stay connected with us beyond the website. The footer is designed to ensure you have access to important resources and ways to reach out to us for any inquiries.
+4. **Footer :**
+As you reach the end of the page, our footer provides a convenient wrap-up. It contains essential links, such as our Privacy Policy, Terms of Use, and Contact information. You'll also find links to our social media profiles, allowing you to stay connected with us beyond the website. The footer is designed to ensure you have access to important resources and ways to reach out to us for any inquiries.
 
 Our home page has been crafted to deliver a seamless journey, whether you're just browsing or looking for specific products. We invite you to take your time, explore, and discover the world of possibilities that our products offer.
 
