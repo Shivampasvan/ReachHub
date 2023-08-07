@@ -82,11 +82,11 @@ If you're interested in exploring our fashion offerings, particularly Women's Cl
 
 **Navigate to Women's Clothing :** <br/> To start, click on the 'Fashion' category from the navbar. Once you're in the Fashion section, you'll find a subcategory called 'Women's Clothing.' Simply click on this subcategory to be redirected to the dedicated Women's Clothing product page.
 
-<br><br>
+<br>
 
 ![women page](https://github.com/Shivampasvan/ReachHub/assets/112854390/163d93c0-48a0-4d8b-b76d-fdc0e420f737)
 
-<br><br>
+<br>
 
 ## Women's Product Page
 
@@ -98,7 +98,7 @@ Upon landing on the Women's Clothing product page, you'll encounter an intuitive
 
 3. **Explore Different Functionalities :** <br/> As you explore the Women's Clothing product page, you'll notice a range of functionalities to enhance your shopping experience. These functionalities may include viewing detailed product images, reading product descriptions, checking available sizes, and even viewing customer reviews to make informed decisions.
 
-<br><br>
+<br>
 
 ![women products 1](https://github.com/Shivampasvan/ReachHub/assets/112854390/b2a51c00-ab5b-41e0-9dcd-54d709ceb96f)
 
