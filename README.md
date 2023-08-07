@@ -83,7 +83,7 @@ This project is an e-commerce website. It allowing users to create accounts, buy
 
 
 ## GUIDE
-`⬇️ If you click on any product You can see the below page ⬇️`
+`⬇️ If you click on any product You can see the single product detail page ⬇️`
 
 
 
