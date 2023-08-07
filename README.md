@@ -145,7 +145,6 @@ When you click on any product, you'll be directed to the dedicated single produc
 The single product detail page aims to offer you a comprehensive view of the product, empowering you to make well-informed decisions based on your preferences and needs. We're dedicated to ensuring your shopping experience is both informative and enjoyable.Feel free to explore our diverse range of products and access their detailed information on their respective single product detail pages.
 
 ### Single Product Page
-<br>
 
 ![women single product](https://github.com/Shivampasvan/ReachHub/assets/112854390/8a7df7e1-3b39-4684-a1ef-2f03d1ac4638)
 
@@ -153,22 +152,22 @@ The single product detail page aims to offer you a comprehensive view of the pro
 
 ![single product](https://github.com/Shivampasvan/ReachHub/assets/112854390/455ba67b-892a-40c1-8323-1c8af3346837)
 
+<br><br>
 
 ## GUIDE
-
 Welcome to the Cart Page!
 
 Here, you'll find a comprehensive overview of all the products you've added to your cart. This page is designed to provide you with a clear view of your selections and make the checkout process as seamless as possible.
 
 We've designed the Cart Page to ensure that you have a transparent and user-friendly experience. It's a convenient hub where you can review your selections, understand the costs involved, and easily proceed to checkout when you're ready.
 
+<br>
+
 ![cart page](https://github.com/Shivampasvan/ReachHub/assets/112854390/6a2a65e1-a45c-43d0-9aa1-90cc6ea9ade6)
 
-
+<br><br>
 
 ## GUIDE
-
-
 ### SignUp Page
 
 Welcome to the SignUp Page!
