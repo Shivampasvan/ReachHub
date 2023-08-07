@@ -63,7 +63,7 @@ As you scroll down, our product details section unfolds. Here, you'll find in-de
 4. **Footer :** <br/>
 As you reach the end of the page, our footer provides a convenient wrap-up. It contains essential links, such as our Privacy Policy, Terms of Use, and Contact information. You'll also find links to our social media profiles, allowing you to stay connected with us beyond the website. The footer is designed to ensure you have access to important resources and ways to reach out to us for any inquiries.
 
-Our home page has been crafted to deliver a seamless journey, whether you're just browsing or looking for specific products. We invite you to take your time, explore, and discover the world of possibilities that our products offer.
+Our home page has been crafted to deliver a seamless journey, whether you're just browsing or looking for specific products. We invite you to take your time, explore, and discover the world of possibilities that our products offer.<br><br><br><br>
 
 
 ![home1](https://github.com/Shivampasvan/ReachHub/assets/112854390/8dc27b6d-3862-4e14-a119-def36150ed48)
