@@ -101,6 +101,8 @@ If you're interested in exploring our fashion offerings, particularly Men's Clot
 
 1. **Navigate to Men's Clothing :** <br/> To start, click on the 'Fashion' category from the navbar. Once you're in the Fashion section, you'll find a subcategory called 'Men's Clothing.' Simply click on this subcategory to be redirected to the dedicated Men's Clothing product page.
 
+![menclick](https://github.com/Shivampasvan/ReachHub/assets/112854390/759a34c5-d9de-4dd1-a1d8-55795b9d22e1)
+
 2. **Product Page Interface :** <br/> Upon landing on the Men's Clothing product page, you'll encounter an intuitive and user-friendly interface. This page has been designed to make your shopping journey as smooth and enjoyable as possible.
 
 3. **Sorting Options :** <br/> At the top of the product listings, you'll notice sorting options. You can sort the products based on price, allowing you to choose whether you want to see the highest priced items first (from high to low) or the lowest priced items first (from low to high). This feature is perfect for tailoring your shopping experience to your budget.
@@ -108,11 +110,6 @@ If you're interested in exploring our fashion offerings, particularly Men's Clot
 4. **Filter by Brand, Category, and More :** <br/> On the left-hand side of the page, you'll find a set of filters that allow you to narrow down your search. You can filter products by brand, category and other relevant attributes. This helps you quickly find products that match your preferences.
 
 5. **Explore Different Functionalities :** <br/> As you explore the Men's Clothing product page, you'll notice a range of functionalities to enhance your shopping experience. These functionalities may include viewing detailed product images, reading product descriptions, checking available sizes, and even viewing customer reviews to make informed decisions.
-
-
-
-![menclick](https://github.com/Shivampasvan/ReachHub/assets/112854390/759a34c5-d9de-4dd1-a1d8-55795b9d22e1)
-
 
 ## Men's Product Page
 
