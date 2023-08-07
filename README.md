@@ -119,7 +119,9 @@ If you're interested in exploring our fashion offerings, particularly Men's Clot
 
 
 ## GUIDE
-`⬇️ If you click on add to Cart You can see the below alert and item will be added to Cart ⬇️`
+When you click on the 'Add to Cart' button, you'll experience a seamless process to enhance your shopping experience. Upon clicking, you'll receive a prompt that confirms your selection and provides important information. The item you've chosen will be swiftly added to your cart, allowing you to continue browsing and exploring more of our offerings.
+
+This simple yet effective step ensures that your chosen product is safely stored in your shopping cart, ready for you to review and proceed to checkout when you're ready. This way, you can keep exploring our wide range of products without losing track of the items you're interested in.
 
 
 ![product added](https://github.com/Shivampasvan/ReachHub/assets/112854390/678c28ab-4f8a-41ef-be74-4bc7b9395eb4)
