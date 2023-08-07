@@ -179,8 +179,6 @@ We've designed the Cart Page to ensure that you have a transparent and user-frie
 ## Guide 📝
 
 ### SignUp Page
-Welcome to the SignUp Page!
-
 If you're a new user, we're excited to have you join our community. Please take a moment to provide all the necessary details to complete your signup process. Your information will help us create a personalized experience for you. Kindly fill out all the required fields marked with an asterisk (*) so we can get to know you better.
 <br>
 
@@ -189,8 +187,6 @@ If you're a new user, we're excited to have you join our community. Please take 
 <br>
 
 ### LogIn Page
-Welcome to the LogIn Page!
-
 This is where you can securely access your account and enjoy a personalized experience on our platform. Whether you're a returning user or new to our platform, this page is your gateway to explore and engage with our services.
 
 We take your security seriously, and our login process is designed to ensure your personal information is protected. Rest assured that your credentials are encrypted and transmitted securely.
