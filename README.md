@@ -155,7 +155,10 @@ We've designed the Cart Page to ensure that you have a transparent and user-frie
 
 
 ## GUIDE
-`⬇️ When you click on Place Order you will be redirected to Login Page only if you are not Logged in ⬇️` 
+
+This is where you can securely access your account and enjoy a personalized experience on our platform. Whether you're a returning user or new to our platform, this page is your gateway to explore and engage with our services.
+
+We take your security seriously, and our login process is designed to ensure your personal information is protected. Rest assured that your credentials are encrypted and transmitted securely.
 
 
 ### LogIn Page
