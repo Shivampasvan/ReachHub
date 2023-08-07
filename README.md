@@ -155,6 +155,7 @@ The single product detail page aims to offer you a comprehensive view of the pro
 <br><br>
 
 ## GUIDE
+### Cart Page
 Welcome to the Cart Page!
 
 Here, you'll find a comprehensive overview of all the products you've added to your cart. This page is designed to provide you with a clear view of your selections and make the checkout process as seamless as possible.
