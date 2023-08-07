@@ -79,13 +79,13 @@ If you're interested in exploring our fashion offerings, particularly Women's Cl
 
 ![women page](https://github.com/Shivampasvan/ReachHub/assets/112854390/163d93c0-48a0-4d8b-b76d-fdc0e420f737)
 
-1. **Product Page Interface :** <br/> Upon landing on the Women's Clothing product page, you'll encounter an intuitive and user-friendly interface. This page has been designed to make your shopping journey as smooth and enjoyable as possible.
+2. **Product Page Interface :** <br/> Upon landing on the Women's Clothing product page, you'll encounter an intuitive and user-friendly interface. This page has been designed to make your shopping journey as smooth and enjoyable as possible.
 
-2. **Sorting Options :** <br/> At the top of the product listings, you'll notice sorting options. You can sort the products based on price, allowing you to choose whether you want to see the highest priced items first (from high to low) or the lowest priced items first (from low to high). This feature is perfect for tailoring your shopping experience to your budget.
+3. **Sorting Options :** <br/> At the top of the product listings, you'll notice sorting options. You can sort the products based on price, allowing you to choose whether you want to see the highest priced items first (from high to low) or the lowest priced items first (from low to high). This feature is perfect for tailoring your shopping experience to your budget.
 
-3. **Filter by Brand, Category, and More :** <br/> On the left-hand side of the page, you'll find a set of filters that allow you to narrow down your search. You can filter products by brand, category and other relevant attributes. This helps you quickly find products that match your preferences.
+4. **Filter by Brand, Category, and More :** <br/> On the left-hand side of the page, you'll find a set of filters that allow you to narrow down your search. You can filter products by brand, category and other relevant attributes. This helps you quickly find products that match your preferences.
 
-4. **Explore Different Functionalities :** <br/> As you explore the Women's Clothing product page, you'll notice a range of functionalities to enhance your shopping experience. These functionalities may include viewing detailed product images, reading product descriptions, checking available sizes, and even viewing customer reviews to make informed decisions.
+5. **Explore Different Functionalities :** <br/> As you explore the Women's Clothing product page, you'll notice a range of functionalities to enhance your shopping experience. These functionalities may include viewing detailed product images, reading product descriptions, checking available sizes, and even viewing customer reviews to make informed decisions.
 
 
 ## Women's Product Page
