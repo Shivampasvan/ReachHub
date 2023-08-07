@@ -44,7 +44,8 @@ In summary, this e-commerce website project aims to create a vibrant online mark
 - `Material UI`
 - `React Router`
 
-## Demo ### https://project-lyart-zeta.vercel.app/
+## Demo 
+https://project-lyart-zeta.vercel.app/
 
 ## Home Page
 
