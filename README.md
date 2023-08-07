@@ -72,13 +72,13 @@ Our home page has been crafted to deliver a seamless journey, whether you're jus
 
 If you're interested in exploring our fashion offerings, particularly Women's Clothing, here's a quick guide to help you navigate to the right place and make the most out of your browsing experience:
 
-1. **Navigate to Women's Clothing :** <br/> To start, click on the 'Fashion' category from the main menu. Once you're in the Fashion section, you'll find a subcategory called 'Women's Clothing.' Simply click on this subcategory to be redirected to the dedicated Women's Clothing product page.
+1. **Navigate to Women's Clothing :** <br/> To start, click on the 'Fashion' category from the navbar. Once you're in the Fashion section, you'll find a subcategory called 'Women's Clothing.' Simply click on this subcategory to be redirected to the dedicated Women's Clothing product page.
 
 2. **Product Page Interface :** <br/> Upon landing on the Women's Clothing product page, you'll encounter an intuitive and user-friendly interface. This page has been designed to make your shopping journey as smooth and enjoyable as possible.
 
 3. **Sorting Options :** <br/> At the top of the product listings, you'll notice sorting options. You can sort the products based on price, allowing you to choose whether you want to see the highest priced items first (from high to low) or the lowest priced items first (from low to high). This feature is perfect for tailoring your shopping experience to your budget.
 
-4. **Filter by Brand, Category, and More :** <br/> On the left-hand side of the page, you'll find a set of filters that allow you to narrow down your search. You can filter products by brand, category, size, color, and other relevant attributes. This helps you quickly find products that match your preferences.
+4. **Filter by Brand, Category, and More :** <br/> On the left-hand side of the page, you'll find a set of filters that allow you to narrow down your search. You can filter products by brand, category and other relevant attributes. This helps you quickly find products that match your preferences.
 
 5. **Explore Different Functionalities :** <br/> As you explore the Women's Clothing product page, you'll notice a range of functionalities to enhance your shopping experience. These functionalities may include viewing detailed product images, reading product descriptions, checking available sizes, and even viewing customer reviews to make informed decisions.
 
@@ -93,7 +93,19 @@ If you're interested in exploring our fashion offerings, particularly Women's Cl
 
 
 ## GUIDE
-`⬇️ If you click on Fashion and then on Men's Clothing, you can able to see the following Interface` and here are all different functionalities you can sort by price, by ratings and you can choose Tshirts colors and all different functionalities are on this page
+
+If you're interested in exploring our fashion offerings, particularly Men's Clothing, here's a quick guide to help you navigate to the right place and make the most out of your browsing experience:
+
+1. **Navigate to Men's Clothing :** <br/> To start, click on the 'Fashion' category from the navbar. Once you're in the Fashion section, you'll find a subcategory called 'Men's Clothing.' Simply click on this subcategory to be redirected to the dedicated Men's Clothing product page.
+
+2. **Product Page Interface :** <br/> Upon landing on the Men's Clothing product page, you'll encounter an intuitive and user-friendly interface. This page has been designed to make your shopping journey as smooth and enjoyable as possible.
+
+3. **Sorting Options :** <br/> At the top of the product listings, you'll notice sorting options. You can sort the products based on price, allowing you to choose whether you want to see the highest priced items first (from high to low) or the lowest priced items first (from low to high). This feature is perfect for tailoring your shopping experience to your budget.
+
+4. **Filter by Brand, Category, and More :** <br/> On the left-hand side of the page, you'll find a set of filters that allow you to narrow down your search. You can filter products by brand, category and other relevant attributes. This helps you quickly find products that match your preferences.
+
+5. **Explore Different Functionalities :** <br/> As you explore the Men's Clothing product page, you'll notice a range of functionalities to enhance your shopping experience. These functionalities may include viewing detailed product images, reading product descriptions, checking available sizes, and even viewing customer reviews to make informed decisions.
+
 
 
 ![menclick](https://github.com/Shivampasvan/ReachHub/assets/112854390/759a34c5-d9de-4dd1-a1d8-55795b9d22e1)
