@@ -65,7 +65,22 @@ Our home page has been crafted to deliver a seamless journey, whether you're jus
 ![home7](https://github.com/Shivampasvan/ReachHub/assets/112854390/6d04e592-55b9-4c95-9290-1035d8ff4826)
 
 ## GUIDE
-`⬇️ If you click on Fashion and then on Women's Clothing, you can able to see the following Interface` and here are all different functionalities you can sort by price, by ratings and you can choose products by colors and all different functionalities are on this page
+<!-- `⬇️ If you click on Fashion and then on Women's Clothing, you can able to see the following Interface` and here are all different functionalities you can sort by price, by ratings and you can choose products by colors and all different functionalities are on this page -->
+Sure, here's a message to guide users on how to navigate to the Women's Clothing product page and explain the available functionalities:
+
+"Hello,
+
+If you're interested in exploring our fashion offerings, particularly Women's Clothing, here's a quick guide to help you navigate to the right place and make the most out of your browsing experience:
+
+1. **Navigate to Women's Clothing:** To start, click on the 'Fashion' category from the main menu. Once you're in the Fashion section, you'll find a subcategory called 'Women's Clothing.' Simply click on this subcategory to be redirected to the dedicated Women's Clothing product page.
+
+2. **Product Page Interface:** Upon landing on the Women's Clothing product page, you'll encounter an intuitive and user-friendly interface. This page has been designed to make your shopping journey as smooth and enjoyable as possible.
+
+3. **Sorting Options:** At the top of the product listings, you'll notice sorting options. You can sort the products based on price, allowing you to choose whether you want to see the highest priced items first (from high to low) or the lowest priced items first (from low to high). This feature is perfect for tailoring your shopping experience to your budget.
+
+4. **Filter by Brand, Category, and More:** On the left-hand side of the page, you'll find a set of filters that allow you to narrow down your search. You can filter products by brand, category, size, color, and other relevant attributes. This helps you quickly find products that match your preferences.
+
+5. **Explore Different Functionalities:** As you explore the Women's Clothing product page, you'll notice a range of functionalities to enhance your shopping experience. These functionalities may include viewing detailed product images, reading product descriptions, checking available sizes, and even viewing customer reviews to make informed decisions.
 
 ![women page](https://github.com/Shivampasvan/ReachHub/assets/112854390/163d93c0-48a0-4d8b-b76d-fdc0e420f737)
 
