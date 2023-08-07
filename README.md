@@ -77,7 +77,7 @@ Our home page has been crafted to deliver a seamless journey, whether you're jus
 
 <br>
 
-## GUIDE 📖
+## GUIDE 📖 📒
 
 If you're interested in exploring our fashion offerings, particularly Women's Clothing, here's a quick guide to help you navigate to the right place and make the most out of your browsing experience:
 
@@ -107,7 +107,7 @@ Upon landing on the Women's Clothing product page, you'll encounter an intuitive
 
 <br>
 
-## GUIDE 📖
+## GUIDE 📖📒
 
 If you're interested in exploring our fashion offerings, particularly Men's Clothing, here's a quick guide to help you navigate to the right place and make the most out of your browsing experience:
 
@@ -137,7 +137,7 @@ Upon landing on the Men's Clothing product page, you'll encounter an intuitive a
 
 <br>
 
-## GUIDE 📖
+## GUIDE 📖📒
 When you click on the 'Add to Cart' button, you'll experience a seamless process to enhance your shopping experience. Upon clicking, you'll receive a prompt that confirms your selection and provides important information. The item you've chosen will be swiftly added to your cart, allowing you to continue browsing and exploring more of our offerings.
 
 This simple yet effective step ensures that your chosen product is safely stored in your shopping cart, ready for you to review and proceed to checkout when you're ready. This way, you can keep exploring our wide range of products without losing track of the items you're interested in.
@@ -146,9 +146,9 @@ This simple yet effective step ensures that your chosen product is safely stored
 
 ![product added](https://github.com/Shivampasvan/ReachHub/assets/112854390/678c28ab-4f8a-41ef-be74-4bc7b9395eb4)
 
-<br><br>
+<br>
 
-## GUIDE
+## GUIDE 📖📒
 
 When you click on any product, you'll be directed to the dedicated single product detail page, where you can delve into comprehensive information about that specific item. This page has been meticulously designed to provide you with an in-depth understanding of the product's features, specifications, and more.
 
@@ -158,13 +158,12 @@ The single product detail page aims to offer you a comprehensive view of the pro
 
 ![women single product](https://github.com/Shivampasvan/ReachHub/assets/112854390/8a7df7e1-3b39-4684-a1ef-2f03d1ac4638)
 
-
-
 ![single product](https://github.com/Shivampasvan/ReachHub/assets/112854390/455ba67b-892a-40c1-8323-1c8af3346837)
 
-<br><br>
+<br>
 
-## GUIDE
+## GUIDE 📖📒
+
 ### Cart Page
 Welcome to the Cart Page!
 
@@ -176,9 +175,10 @@ We've designed the Cart Page to ensure that you have a transparent and user-frie
 
 ![cart page](https://github.com/Shivampasvan/ReachHub/assets/112854390/6a2a65e1-a45c-43d0-9aa1-90cc6ea9ade6)
 
-<br><br>
+<br>
 
-## GUIDE
+## GUIDE 📖📒
+
 ### SignUp Page
 Welcome to the SignUp Page!
 
@@ -187,7 +187,7 @@ If you're a new user, we're excited to have you join our community. Please take 
 
 ![signup](https://github.com/Shivampasvan/ReachHub/assets/112854390/1c438601-4f1c-4af9-b12a-3dd845898ad2)
 
-<br><br>
+<br>
 
 ### LogIn Page
 Welcome to the LogIn Page!
@@ -199,9 +199,9 @@ We take your security seriously, and our login process is designed to ensure you
 
 ![login](https://github.com/Shivampasvan/ReachHub/assets/112854390/8c532353-5d07-4205-a302-f90bf90aad6e)
 
-<br><br>
+<br>
 
-## GUIDE
+## GUIDE 📖📒
 `⬇️ After Logged in you can see the below interface for Payments details ⬇️` Here you can fill all the details and  after clicking on Pay Now you order will be placed successfully 🥳🥳🥳
 
 ![checkout 1](https://github.com/Shivampasvan/ReachHub/assets/112854390/6f06b759-dadd-4d21-ab4c-468897e5c4bd)
