@@ -63,8 +63,9 @@ As you scroll down, our product details section unfolds. Here, you'll find in-de
 4. **Footer :** <br/>
 As you reach the end of the page, our footer provides a convenient wrap-up. It contains essential links, such as our Privacy Policy, Terms of Use, and Contact information. You'll also find links to our social media profiles, allowing you to stay connected with us beyond the website. The footer is designed to ensure you have access to important resources and ways to reach out to us for any inquiries.
 
-Our home page has been crafted to deliver a seamless journey, whether you're just browsing or looking for specific products. We invite you to take your time, explore, and discover the world of possibilities that our products offer.<br><br>
+Our home page has been crafted to deliver a seamless journey, whether you're just browsing or looking for specific products. We invite you to take your time, explore, and discover the world of possibilities that our products offer.
 
+<br><br>
 
 ![home1](https://github.com/Shivampasvan/ReachHub/assets/112854390/8dc27b6d-3862-4e14-a119-def36150ed48)
 ![home2](https://github.com/Shivampasvan/ReachHub/assets/112854390/9b4d694a-e258-4268-9cc8-1b17a3ca0de3)
@@ -74,9 +75,9 @@ Our home page has been crafted to deliver a seamless journey, whether you're jus
 ![home6](https://github.com/Shivampasvan/ReachHub/assets/112854390/e64f26e8-e7ed-41f0-b56d-094e6fac7b61)
 ![home7](https://github.com/Shivampasvan/ReachHub/assets/112854390/6d04e592-55b9-4c95-9290-1035d8ff4826)
 
-<br><br>
+<br>
 
-## GUIDE
+## GUIDE 📖
 
 If you're interested in exploring our fashion offerings, particularly Women's Clothing, here's a quick guide to help you navigate to the right place and make the most out of your browsing experience:
 
@@ -104,9 +105,9 @@ Upon landing on the Women's Clothing product page, you'll encounter an intuitive
 
 ![women products 2](https://github.com/Shivampasvan/ReachHub/assets/112854390/ca5da2e9-f843-4224-833b-815d1ff084e6)
 
-<br><br>
+<br>
 
-## GUIDE
+## GUIDE 📖
 
 If you're interested in exploring our fashion offerings, particularly Men's Clothing, here's a quick guide to help you navigate to the right place and make the most out of your browsing experience:
 
@@ -134,9 +135,9 @@ Upon landing on the Men's Clothing product page, you'll encounter an intuitive a
 
 ![men page 2](https://github.com/Shivampasvan/ReachHub/assets/112854390/1933a5fa-65fa-4282-b55c-6384489533fc)
 
-<br><br>
+<br>
 
-## GUIDE
+## GUIDE 📖
 When you click on the 'Add to Cart' button, you'll experience a seamless process to enhance your shopping experience. Upon clicking, you'll receive a prompt that confirms your selection and provides important information. The item you've chosen will be swiftly added to your cart, allowing you to continue browsing and exploring more of our offerings.
 
 This simple yet effective step ensures that your chosen product is safely stored in your shopping cart, ready for you to review and proceed to checkout when you're ready. This way, you can keep exploring our wide range of products without losing track of the items you're interested in.
