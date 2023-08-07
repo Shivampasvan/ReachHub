@@ -90,7 +90,7 @@ Upon landing on the Women's Clothing product page, you'll encounter an intuitive
 
 2. **Filter by Brand, Category, and More :** <br/> On the left-hand side of the page, you'll find a set of filters that allow you to narrow down your search. You can filter products by brand, category and other relevant attributes. This helps you quickly find products that match your preferences.
 
-3. **Explore Different Functionalities :** <br/> As you explore the Women's Clothing product page, you'll notice a range of functionalities to enhance your shopping experience. These functionalities may include viewing detailed product images, reading product descriptions, checking available sizes, and even viewing customer reviews to make informed decisions.
+3. **Explore Different Functionalities :** <br/> As you explore the Women's Clothing product page, you'll notice a range of functionalities to enhance your shopping experience. These functionalities may include viewing detailed product images, reading product descriptions, checking available sizes, and even viewing customer reviews to make informed decisions.<br><br>
 
 
 ![women products 1](https://github.com/Shivampasvan/ReachHub/assets/112854390/b2a51c00-ab5b-41e0-9dcd-54d709ceb96f)
