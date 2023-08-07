@@ -10,6 +10,7 @@
 This project is an e-commerce website. It allowing users to create accounts, buy and sell products, bid on auctions, and leave feedback for transactions. The website features various categories for products, including electronics, fashion, home goods, and more.
 
 ## Features
+
 - Fully responsive website for large, medium and small screen
 - Secure user authentication and authorization
 - User profiles for buying products
@@ -18,12 +19,12 @@ This project is an e-commerce website. It allowing users to create accounts, buy
 - Checkout process for buyers to purchase products
 - Sort by Price High to Low
 - Sort by Price Low to High
-- Filter by Brands
 - Filter by Categories
+- Filter by Brands
 - Pagination
 - Multiple filters functionality
 - Add to Cart | Delete from Cart | Proceed to checkout
-- payment, checkout functionality
+- Payment, Checkout functionality
 
 ## Technologies Used
 
