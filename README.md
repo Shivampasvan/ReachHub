@@ -49,13 +49,13 @@ Welcome to our website's home page, where we've designed an immersive and user-f
 1. **Navbar :** <br/>
    Our navigation bar, located at the top of the page, serves as your roadmap to effortlessly explore our offerings. It provides easy access to key sections of our website, including Home, Products, About Us, Contact, and more. Whether you're looking to learn about us or find specific products, the navbar is your gateway.
 
-2. **Carousel :**
+2. **Carousel :** <br/>
 Right at the heart of our home page, you'll discover a captivating carousel. This dynamic element showcases a collection of images that highlight our featured products, promotions, and key announcements. It's designed to catch your eye and draw you into the world of our products, inviting you to explore further.
 
-3. **Product Details Section :**
+3. **Product Details Section :** <br/>
 As you scroll down, our product details section unfolds. Here, you'll find in-depth information about each of our diverse products. Each product has its dedicated space, complete with high-quality images, comprehensive descriptions, standout features, pricing details, and even customer reviews. Whether you're a tech enthusiast, a fashion aficionado, or someone seeking practical solutions, this section has something for everyone.
 
-4. **Footer :**
+4. **Footer :** <br/>
 As you reach the end of the page, our footer provides a convenient wrap-up. It contains essential links, such as our Privacy Policy, Terms of Use, and Contact information. You'll also find links to our social media profiles, allowing you to stay connected with us beyond the website. The footer is designed to ensure you have access to important resources and ways to reach out to us for any inquiries.
 
 Our home page has been crafted to deliver a seamless journey, whether you're just browsing or looking for specific products. We invite you to take your time, explore, and discover the world of possibilities that our products offer.
@@ -72,15 +72,15 @@ Our home page has been crafted to deliver a seamless journey, whether you're jus
 
 If you're interested in exploring our fashion offerings, particularly Women's Clothing, here's a quick guide to help you navigate to the right place and make the most out of your browsing experience:
 
-1. **Navigate to Women's Clothing:** To start, click on the 'Fashion' category from the main menu. Once you're in the Fashion section, you'll find a subcategory called 'Women's Clothing.' Simply click on this subcategory to be redirected to the dedicated Women's Clothing product page.
+1. **Navigate to Women's Clothing :** <br/> To start, click on the 'Fashion' category from the main menu. Once you're in the Fashion section, you'll find a subcategory called 'Women's Clothing.' Simply click on this subcategory to be redirected to the dedicated Women's Clothing product page.
 
-2. **Product Page Interface:** Upon landing on the Women's Clothing product page, you'll encounter an intuitive and user-friendly interface. This page has been designed to make your shopping journey as smooth and enjoyable as possible.
+2. **Product Page Interface :** <br/> Upon landing on the Women's Clothing product page, you'll encounter an intuitive and user-friendly interface. This page has been designed to make your shopping journey as smooth and enjoyable as possible.
 
-3. **Sorting Options:** At the top of the product listings, you'll notice sorting options. You can sort the products based on price, allowing you to choose whether you want to see the highest priced items first (from high to low) or the lowest priced items first (from low to high). This feature is perfect for tailoring your shopping experience to your budget.
+3. **Sorting Options :** <br/> At the top of the product listings, you'll notice sorting options. You can sort the products based on price, allowing you to choose whether you want to see the highest priced items first (from high to low) or the lowest priced items first (from low to high). This feature is perfect for tailoring your shopping experience to your budget.
 
-4. **Filter by Brand, Category, and More:** On the left-hand side of the page, you'll find a set of filters that allow you to narrow down your search. You can filter products by brand, category, size, color, and other relevant attributes. This helps you quickly find products that match your preferences.
+4. **Filter by Brand, Category, and More :** <br/> On the left-hand side of the page, you'll find a set of filters that allow you to narrow down your search. You can filter products by brand, category, size, color, and other relevant attributes. This helps you quickly find products that match your preferences.
 
-5. **Explore Different Functionalities:** As you explore the Women's Clothing product page, you'll notice a range of functionalities to enhance your shopping experience. These functionalities may include viewing detailed product images, reading product descriptions, checking available sizes, and even viewing customer reviews to make informed decisions.
+5. **Explore Different Functionalities :** <br/> As you explore the Women's Clothing product page, you'll notice a range of functionalities to enhance your shopping experience. These functionalities may include viewing detailed product images, reading product descriptions, checking available sizes, and even viewing customer reviews to make informed decisions.
 
 ![women page](https://github.com/Shivampasvan/ReachHub/assets/112854390/163d93c0-48a0-4d8b-b76d-fdc0e420f737)
 
