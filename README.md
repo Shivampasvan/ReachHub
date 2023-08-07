@@ -121,6 +121,9 @@ This project is an e-commerce website. It allowing users to create accounts, buy
 
 ![checkout 1](https://github.com/Shivampasvan/ReachHub/assets/112854390/6f06b759-dadd-4d21-ab4c-468897e5c4bd)
 
+![fill address](https://github.com/Shivampasvan/ReachHub/assets/112854390/da7dbd2d-a876-410d-977a-20e40786da51)
+
+
 ![checkout 2](https://github.com/Shivampasvan/ReachHub/assets/112854390/835a7d8e-d461-4825-93cc-0f435543e10d)
 
 ## Getting Started
