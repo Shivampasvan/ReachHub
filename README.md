@@ -1,7 +1,9 @@
 
-# Buyify : Every product delivered to you
+# Buyify
+Every product delivered to you
 
-## Demo : https://project-lyart-zeta.vercel.app/ 
+## Live Demo 
+https://project-lyart-zeta.vercel.app/ 
 
 ![Logo](https://github.com/Shivampasvan/ReachHub/assets/112854390/82a907aa-e48a-4968-a66f-bf55dfbea30a)
 
