@@ -197,7 +197,7 @@ We take your security seriously, and our login process is designed to ensure you
 <br>
 
 ## Guide 📝
-`⬇️ After Logged in you can see the below interface for Payments details ⬇️` Here you can fill all the details and  after clicking on Pay Now you order will be placed successfully 🥳🥳🥳
+Welcome to our payment portal! Please take a moment to provide your payment details. In this section, you'll be able to input your shipping address and select your preferred payment method. Once you've completed these steps, simply click on the 'Pay Now' button, and your order will be successfully placed. Thank you for choosing us!
 
 ![checkout 1](https://github.com/Shivampasvan/ReachHub/assets/112854390/6f06b759-dadd-4d21-ab4c-468897e5c4bd)
 
