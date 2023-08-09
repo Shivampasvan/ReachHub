@@ -1,8 +1,9 @@
 
 # Buyify : Every product delivered to you
-## Demo : https://project-lyart-zeta.vercel.app/ 
-![Logo](https://github.com/Shivampasvan/ReachHub/assets/112854390/82a907aa-e48a-4968-a66f-bf55dfbea30a)
 
+## Demo : https://project-lyart-zeta.vercel.app/ 
+
+![Logo](https://github.com/Shivampasvan/ReachHub/assets/112854390/82a907aa-e48a-4968-a66f-bf55dfbea30a)
 
 
 ## Overview
@@ -44,8 +45,6 @@ In summary, this e-commerce website project aims to create a vibrant online mark
 - `Material UI`
 - `React Router`
 
-## Demo 
-https://project-lyart-zeta.vercel.app/
 
 ## Home Page
 
