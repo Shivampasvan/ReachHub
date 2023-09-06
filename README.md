@@ -11,7 +11,7 @@
 The presented project is a dynamic and robust e-commerce website that encapsulates the essence of modern online shopping. This comprehensive platform is designed to provide users with an engaging and user-friendly experience while offering a vast array of products and features.    
     
 In summary, this e-commerce website project aims to create a vibrant online marketplace where users can explore, buy, and sell products in a secure and user-friendly environment. By combining convenience, personalization, and reliability, the platform seeks to provide a seamless shopping experience for users while fostering a thriving online community.
-
+ 
 ## Features
 
 - Fully responsive website for large, medium and small screens
